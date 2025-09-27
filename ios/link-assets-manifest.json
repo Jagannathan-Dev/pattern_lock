@@ -1,0 +1,21 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/KirangHaerang-Regular.ttf",
+      "sha1": "29830ade4bfd3abaa1f91525447a9cfe29f5e067"
+    },
+    {
+      "path": "assets/fonts/LondrinaShadow-Regular.ttf",
+      "sha1": "e950348757b24cc42481784fea66fb4ce7692ea7"
+    },
+    {
+      "path": "assets/fonts/Montserrat-Medium.ttf",
+      "sha1": "4656e40419da86a5fec473ea8e7fc0efef183f05"
+    },
+    {
+      "path": "assets/fonts/NotoSerifDivesAkuru-Regular.ttf",
+      "sha1": "c8ef1104441dd16d5518064f90e9ddafaa47888b"
+    }
+  ]
+}
