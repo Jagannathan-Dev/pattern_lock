@@ -2,7 +2,7 @@ import {
   CardStyleInterpolators,
   createStackNavigator,
 } from '@react-navigation/stack';
-import PatternLockScreen from '../screens/patten_lock';
+import PatternLockScreen from '../screens/pattern_lock';
 import Dashboard from '../screens/dashboard';
 
 const Stack = createStackNavigator();

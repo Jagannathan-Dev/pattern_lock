@@ -5,7 +5,7 @@ import { styles } from '../styles/styles';
 import imageReq from '../constants/imageReq';
 import colors from '../constants/colors';
 import moment from 'moment';
-import Screen_Patten from './patten_';
+import Screen_Patten from './pattern_';
 
 interface props {
   navigation: any;
